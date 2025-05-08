@@ -16,9 +16,6 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   </a>
